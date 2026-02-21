@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jasmine-villegas-library-2e1db",
+  "private_key_id": "be819ca6d7db3b5ad92d709fd4423b878132fa75",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCuTVZDlsUR/Oip\n7WcfYCSMgSJfjWch+JulPUmIcRf09GLatIC98hwUkdTmdAHhtyZgYomRJQALSvKt\nJASHHLN7OpPMW7f4m1agkL5ehlktWrC/vLDEL1UvMKwmK2uiLFudRaE3xVMptXhq\ngPMyrbGLKVDMOew0XsPWCbroZu3YpxPURZwq/VYydPJpelQKISepn4anXGIIJ1sv\nvf9Grc6nA+2OvAvREGdUmAfVQewuCkTzklSooJWFtiwKpi7xCFZvjASdY7KtnuyU\nTZW9JsvUsVNN8NPS26pofbD1EQ971Erv2q6dAA2KNSgn9IKoLKYKHPFuwLrg+IAk\nAugadmLnAgMBAAECggEATS/WSawUrTiQV9/X0N8kkEwHSsU1rKeJVY1kaNWcRE+N\nD0jr0jHLGZjS7RLmWmxexEQeo3X9JQMVoHLYxnSBTsrL9K2RNLiljglLJFTeXOVS\nbDZFGTvUv0cQlP6ZdYGrOGRDVo09nLTOFGvyRrkAbJ3pN+dWoIJuuvQoHw6luVDX\n7ahczBDLp0z283vfkhsSuIvitcPWBF0I9JwmJu7dLkvzMtDlsTkSDsJ4fv29BytY\ncznIl03uE5Lifp5kzFcljHP3X9mnhh+xf0jK6kujzTlaDUCToktEwcdUeD4oqsYm\nchX/Pau78c+lmHjrnVryIG0IzPIJE44nQk9pxhR40QKBgQDnRDSFM4umKhrphsFo\nA9wpJt8lLkD2Iv0abZ66Ab9z2vCV22om1g5sA1v7MvdWLim0/vXCTpPV53JiiZCM\nUAC8qG4uSzhSMj2ADaUNookbNlGJQiFUBO7zIPfQJpP8S+zSeaPp2RppjBSaKOjx\njbNwtJPvXgLfZNdmgwZqOYYCQwKBgQDA8YR2h0N391btct27KCvdb41Hb9chzENh\ngSxIk40zSXaikMJAInKzkdWKG2r1XO8w03FnYmhMFiZgrlz3VqJ/H+TxplRPtOHO\ne3QHJol0NJ5+msGkgl/j0M+DRgqbZCJiJJBXh7rc1qqEyUS5tl53y9kyYu1m2865\nMdrQE4QMjQKBgQCN+x6vZEzpD9KD6lpU7IG+tgGrRvFU63guQHyBP891ZkXsCs/p\n1eL2xz0yRED7JM4wM5NX3nv+h+B+xGv86KT7LgCu5TlHpVaChl39t/qqvTdjqDjj\n5z93/paFsRmLfGWBdnJ+f+4qPHjtiA4zNkai/AoSm8nxsmxXoDtQ/c3bFwKBgQCI\nn70DzX5qCbwFQgxexfBhyecJydlVtnWUKsr3zXvz8DZQoR7cGUiNfVvvgsC3ZAp/\n0YoBAj8GebzNQ0rTXgaM7EHLF9Ol6VjoRKUBlzlIDyaYUe+DFUrfX/JBa6yBImPy\niR+oy5T3Yg63HmpK8ydrvu5a7pBbAJUesH3YT6l21QKBgQChbMCnf5Qq/18ES3zk\n3mbTgA69nrM2kcm9KLEcYL/FkY6x6bEsLee9t3uSZWiuWl607vXQbxaUhg7E1H1a\nLyaCIbNGQJQfyIkniKV9Aier5G8/ovnoTwXbgg3VcxGp+a/c17nRgsiyNUL23qSc\nwiJ5ddcqB1NEhIjtRwIUl2t+tg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@jasmine-villegas-library-2e1db.iam.gserviceaccount.com",
+  "client_id": "103866061940147252936",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40jasmine-villegas-library-2e1db.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
